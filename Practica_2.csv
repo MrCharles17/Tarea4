@@ -1,5 +1,4 @@
-V (cte),X,Y,Z
-Voltaje,Columnas,Filas,Voltaje
+Vi,X,Y,Z
 1.01,2,2,0.966
 1.01,2,4,0.979
 1.01,2,6,0.992
